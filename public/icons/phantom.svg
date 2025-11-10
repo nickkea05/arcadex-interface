@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1200 600C1200 931.37 931.37 1200 600 1200C268.63 1200 0 931.37 0 600C0 268.63 268.63 0 600 0C931.37 0 1200 268.63 1200 600Z" fill="url(#phantomGradient)"/>
+  <path d="M600 150C400 150 250 300 250 500V650H350V500C350 400 400 350 500 350H700C800 350 850 400 850 500V650H950V500C950 300 800 150 600 150Z" fill="white"/>
+  <path d="M250 650V800C250 900 300 950 400 950H500V850H400C350 850 350 800 350 750V650H250Z" fill="white"/>
+  <path d="M700 950H800C900 950 950 900 950 800V650H850V750C850 800 850 850 800 850H700V950Z" fill="white"/>
+  <defs>
+    <linearGradient id="phantomGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#AB9FF2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8A6FF2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,44 @@
+<svg viewBox="0 0 101 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M100.5 66.5L88.5 78.5L77.5 67.5L100.5 66.5Z" fill="url(#gradient1)"/>
+  <path d="M88.5 78.5L77.5 67.5L66.5 78.5L88.5 78.5Z" fill="url(#gradient2)"/>
+  <path d="M77.5 67.5L66.5 78.5L55.5 67.5L77.5 67.5Z" fill="url(#gradient3)"/>
+  <path d="M66.5 78.5L55.5 67.5L44.5 78.5L66.5 78.5Z" fill="url(#gradient4)"/>
+  <path d="M55.5 67.5L44.5 78.5L33.5 67.5L55.5 67.5Z" fill="url(#gradient5)"/>
+  <path d="M44.5 78.5L33.5 67.5L22.5 78.5L44.5 78.5Z" fill="url(#gradient6)"/>
+  <path d="M33.5 67.5L22.5 78.5L11.5 67.5L33.5 67.5Z" fill="url(#gradient7)"/>
+  <path d="M22.5 78.5L11.5 67.5L0.5 78.5L22.5 78.5Z" fill="url(#gradient8)"/>
+  <defs>
+    <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9945FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8752F3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8752F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#5497D5;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="gradient3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#5497D5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#43B4CA;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="gradient4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#43B4CA;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#28E0B9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="gradient5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#28E0B9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#19FB9B;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="gradient6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#19FB9B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#28E0B9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="gradient7" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#28E0B9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#43B4CA;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="gradient8" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#43B4CA;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#5497D5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>
